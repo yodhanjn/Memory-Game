@@ -63,10 +63,6 @@ Memory Flip Game/
 - **Penalty**: -4 points per wrong match
 - **Objective**: Match all 10 pairs before score reaches 0
 
-## 📸 Screenshots
-
-*Add screenshots of your game here!*
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
@@ -88,3 +84,4 @@ This project is open source and available under the MIT License.
 ---
 
 ⭐ If you like this project, please give it a star on GitHub!
+
